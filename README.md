@@ -9,6 +9,8 @@ Everything should be included in this repo for you to run this. But You need to 
 
 From your terminal, navigate to the root of this project, and run `node assignment.js`. If everything is in order, you should see 'Running assignment...' in your terminal.
 
+You can console.log your returned results in order to see them in the terminal.
+
 ## Basic filtering
 Your first assignment is about basic filtering.
 
